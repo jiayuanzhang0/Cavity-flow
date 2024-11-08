@@ -1,1 +1,1 @@
-This is a Fortran code for solving cavity flow.
+This program is a Fortran-based CFD solver for simulating lid-driven cavity flow.
